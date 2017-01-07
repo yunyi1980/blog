@@ -5,16 +5,16 @@
 # Site
 title: 藏云阁
 subtitle: yann's home
-description:
-author: yann
-language:
-timezone:
+description: this is my personal blog. I will put my thinking here.
+author: Zero
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
-permalink: :year/:month/:day/:title/
+url: http://www.zyunyi.com
+root: /home
+permalink: :category/:year/:month/:day/:title/ #类别/年/月/日/title
 permalink_defaults:
 
 # Directory
@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yunyi1980/blog.git
+  repo: https://github.com/yunyi1980/yunyi1980.github.io.git
   branch: master
