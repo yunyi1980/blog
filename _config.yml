@@ -4,7 +4,7 @@
 
 # Site
 title: 藏云阁
-subtitle: yann's home
+subtitle: Zero's home
 description: this is my personal blog. I will put my thinking here.
 author: Zero
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.zyunyi.com
-root: /home
+root: /
 permalink: :category/:year/:month/:day/:title/ #类别/年/月/日/title
 permalink_defaults:
 

@@ -4,10 +4,7 @@ date: 2017-01-07 17:17:39
 categories:
 - other
 ---
-
-# Welcome to Zero’s blog.
-
->  **who am I**
+##  **who am I**
 
 我叫**Zero**，来自中国上海，是一名程序猿 ，目前在一家上海的创业公司担任前端的开发的leader。我属于不纯粹的**前端工程师**。
 
